@@ -11,4 +11,6 @@ Employee Attrition Analysis using Tableau
     4. Sales executives and lab technicians left the company more than other job roles. The bigger size of these job roles under no attrition could be because of new hires as many of the employees left the firm.
     5. Aain the general assumption would be that bigger the age, greater the chance of employees leaving but the data does not support this assumption. Most of the employees left seem to be under 35 years old. From 18 to 35 the attrition levels are very high and their distance from home is also small when compared to many other employees.
     
- 
+
+
+
